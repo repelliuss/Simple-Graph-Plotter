@@ -1,11 +1,11 @@
 <p align="center">
-  &nbsp;<img width="200" height="200" src="https://b.allthepics.net/rpsLogo.png">
+  &nbsp;<img width="200" height="200" src="https://i.imgur.com/VOIqPTP.png">
 </p>
 
 # Simple Graph Plotter
 
 <p align="center">
-  <img width="470" height="380" src="https://b.allthepics.net/55e6da8e31fda4f34.png">
+  <img width="470" height="380" src="https://i.imgur.com/CudYze6.png">
 </p>
 
 ## Table of contents
@@ -22,8 +22,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;This was a university project in 2018-2019 spring semester. Challenge of the project was using only vectors so that's why this library implemented using just vectors.
 
 ## Screenshots
-<p align="center"><img src="https://b.allthepics.net/1b7594a4f68dafe65.png" width="302" height="255" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://b.allthepics.net/3eeaec92b0aa5f155.png" width="302" height="255" /></p>
-<p align="center"><img src="https://b.allthepics.net/2fa22a417b1e0f585.png" width="302" height="255" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://b.allthepics.net/4c7b8d534b034ea58.png" width="302" height="255" /></p>
+<p align="center"><img src="https://i.imgur.com/mB7k6AP.png" width="302" height="255" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.imgur.com/V2vWMJw.png" width="302" height="255" /></p>
 
 ## Code Example
 ```c
